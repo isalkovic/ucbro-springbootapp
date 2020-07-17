@@ -1,0 +1,3 @@
+id: "20200717130801.31442500"
+project-name: ivo-springboot-app
+stack: docker.io/kabanero/java-spring-boot2:0.3.28
