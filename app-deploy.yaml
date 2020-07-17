@@ -3,6 +3,7 @@ kind: AppsodyApplication
 metadata:
   creationTimestamp: null
   name: ivo-springboot-app
+  namespace: ivosalkovic-hr
 spec:
   applicationImage: dev.local/ivo-springboot-app
   createKnativeService: false
